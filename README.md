@@ -1,1 +1,18 @@
 # PROJECT-3.PY
+THIS IS THE BASIC INTERFACE FOR THE LINK SCRAPPER 
+
+
+
+<img width="475" alt="Screenshot 2024-11-14 at 4 50 57 PM" src="https://github.com/user-attachments/assets/42f4d88e-56e7-4fe5-a964-3776e594e4f6">
+
+
+HERE WE CAN  ENTER ANY URL OF ANY WEBISTE AND SCRAPE THE DETAILS AND SAVE IT TO OUR CSV FILES.
+
+EXAMPLE:
+
+<img width="483" alt="Screenshot 2024-11-14 at 4 51 07 PM" src="https://github.com/user-attachments/assets/02691d0c-6a8e-4a78-96a0-195bd20bb6aa">
+
+
+
+
+HENCE WE CAN CLICK ON SCRAPE AND SAVE LINKS AND HENCE THE FILES ARE SAVED ON OUR DEVICE
